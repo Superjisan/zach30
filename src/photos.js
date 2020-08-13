@@ -1,4 +1,4 @@
-import * as bachelorShoe from "./images/bachelor-shoe.jpg"
+import * as bachelorShoe from "./images/bachelor_shoe.jpg"
 import * as bad_hombres from "./images/bad_hombres.jpg"
 import * as buried_snow from "./images/buried_snow.jpg"
 import * as climbingCfa from "./images/climbing_cfa.jpg"
@@ -72,4 +72,143 @@ export const photos = [
         height: 4,
         title: "You are always scheming for the next adventure. Nothing but respect for that."
     },
+    {
+        src: grumpy_hat,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: hanging_tree,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: hawaii_snorkling,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: herb_shoulder,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: hunky_bod,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: inaara_lion_queen,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: jersey_boys,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: lorise,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: naptime,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: repping_bd,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: retro,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: senior_cocks,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: serious_face,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: siblings,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: soccer_sportsmanship,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: subway_face,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: twins,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: ultimate_hipster,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: ultimate_team,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: water_jump,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: weightlifting,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: with_sister,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+    {
+        src: young_guitar,
+        width: 5,
+        height: 4,
+        title: "You are always scheming for the next adventure. Nothing but respect for that."
+    },
+
 ]

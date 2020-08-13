@@ -21,8 +21,8 @@ function App() {
   }
   return (
     <div className="App">
-      <h1>Happy 30th Birthday Maggie</h1>
-      <p>30 awesome things about you. Click around.</p>
+      <h1>Happy 30th Birthday Zach</h1>
+      <p>30 awesome things about you down memory lane. Click around.</p>
 
       <Gallery photos={photos} onClick={openLightbox} />
       <ModalGateway>

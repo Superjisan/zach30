@@ -32,183 +32,183 @@ import * as young_guitar from "./images/young_guitar.jpg"
 export const photos = [
     {
         src: bachelorShoe,
-        width: 3,
+        width: 4,
         height: 4,
-        title: "You are one classy lady Maggie! Love the umbrella"
+        title: "In this pic, you have shoes on your hand. Thanks for always putting square pegs in circle holes friend."
     },
     {
         src: bad_hombres,
         width: 4,
         height: 4,
-        title: "Not sure what's really going on here, but I am going to interpret it as you find beauty whereever you go and that's majestic. Just like the muscular man here."
+        title: "Thanks for coming to my apartment when I lived by myself. You are the baddest hombre."
     },
     {
         src: buried_snow,
-        width: 5,
+        width: 6,
         height: 4,
-        title: "Master of poses and hikes you are. So grateful for the amount of nature adventures you dragged me to."
+        title: "The amount of hope and happiness expressed in this pic is unmatched."
     },
     {
         src: climbingCfa,
         width: 4,
-        height: 4,
-        title: "Never afraid to get weird, and that's what I love about you."
+        height: 6,
+        title: "Always climbing to higher heights you are. Keep that upper body strength and I hope you get to the summit of some obstacles in your 30s."
     },
     {
         src: cute_couple,
         width: 3,
         height: 4,
-        title: "There's no one I would rather see do a pigeon dance than you as an offering to the gods."
+        title: "From the one night in Warren where you two stayed up, I am so lucky to see your relationship grow. Glad you have a partner at 30. Rooting for you two as you start on your 30s. <3"
     },
     {
         src: dancer_extraordinaire,
         width: 3,
         height: 4,
-        title: "Your halloween costumes have always been on fire, even since Bjork in high school. Your creativity, artistry, and drive to have the most original costume is something I admire in you."
+        title: "You are one dancer extraordinaire.  Keep dancing in your 4th decade my friend. "
     },
     {
         src: fancy_taiko,
         width: 5,
         height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        title: "You were always the drummer to your own beat of your drum. Keep drumming and stay on rhythm!"
     },
     {
         src: grumpy_hat,
-        width: 5,
-        height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        width: 4,
+        height: 5,
+        title: "Rainbow hats would make anyone as unhappy as you. I love this pic. Stay grumpy at rainbows friend."
     },
     {
         src: hanging_tree,
-        width: 5,
-        height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        width: 4,
+        height: 5,
+        title: "Adventurous and hanging on for dear life. Hold on to reach your destination this decade friend. "
     },
     {
         src: hawaii_snorkling,
-        width: 5,
+        width: 4,
         height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        title: `I really like the chest forward wet suit setup. As one of my two 6'4" bros, I am so happy to spend some quality pre-quarantine time in paradise with you.`    
     },
     {
         src: herb_shoulder,
         width: 5,
         height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        title: "Your shoulder has all the spices that Herb needs. Keep being a good shoulder to lean on friend, we all need it."
     },
     {
         src: hunky_bod,
         width: 5,
         height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        title: "In my creepy stalking of you, I am grateful for your friendship and while I am sad that I have to share it with others, thanks for being great buds to all the people you have chosen."
     },
     {
         src: inaara_lion_queen,
-        width: 5,
+        width: 4,
         height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        title: "This is the best picture. Thanks for being part of my chosen family and treating my family so well. We all love you"
     },
     {
         src: jersey_boys,
-        width: 5,
+        width: 6,
         height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        title: "This is from our first or second Six Flags trip. Remember when you lived in Princeton? Ah, time sure flies. Thankful to have great memories."
     },
     {
         src: lorise,
-        width: 5,
+        width: 4,
         height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        title: "We sure had fun adventures at your lorise. Thanks for always being so welcoming me to your home. You are always welcome in mine buddy."
     },
     {
         src: naptime,
-        width: 5,
+        width: 6,
         height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        title: "Thank for always worrying about my sleep or lack thereof. I hope you get some chance to rest some this decade."
     },
     {
         src: repping_bd,
-        width: 5,
-        height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        width: 3,
+        height: 6,
+        title: "Remember the rainy day when we went to Embassy Day? That was fun. Thanks for rocking the Bangladeshi flag."
     },
     {
         src: retro,
-        width: 5,
+        width: 4,
         height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        title: "No idea what the fuck this is or where it's from but I am jealous that I am not in. Keep being weird Zach."
     },
     {
         src: senior_cocks,
-        width: 5,
-        height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        width: 4,
+        height: 6,
+        title: "The dancing is extreme in this one. I hope you continue to get jiggy with it bud."
     },
     {
         src: serious_face,
-        width: 5,
+        width: 6,
         height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        title: "I believe everyone was instructed to do their serious face. Thanks for always following instructions haha."
     },
     {
         src: siblings,
-        width: 5,
+        width: 6,
         height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        title: "You and your siblings look dapper AF here. Always a family man. I wish you and your family all good news and joy in the upcoming decade."
     },
     {
         src: soccer_sportsmanship,
-        width: 5,
-        height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        width: 4,
+        height: 6,
+        title: "You were always about sportsmanship. Play fair or else!"
     },
     {
         src: subway_face,
-        width: 5,
+        width: 6,
         height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        title: "Everyone should have this face in the subway constantly. Thanks for always being alert friend."
     },
     {
         src: twins,
         width: 5,
         height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        title: "I am so glad to have 6ft 4 inch twins in my life. Thanks for being orange and blue"
     },
     {
         src: ultimate_hipster,
         width: 5,
         height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        title: "Ultimate Hipster! Stay classy my friend."
     },
     {
         src: ultimate_team,
-        width: 5,
+        width: 6,
         height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        title: "AMPZ bandana team! This is the ultimate of teams. Thanks for always being a great team player"
     },
     {
         src: water_jump,
-        width: 5,
+        width: 4,
         height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        title: "This picture represents so much. I hope you keep continuing to jump into things headfirst. Charge!"
     },
     {
         src: weightlifting,
         width: 5,
         height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        title: "I always loved being your weights for your exercise. Thanks for always picking me up (sometimes literally)"
     },
     {
         src: with_sister,
-        width: 5,
+        width: 6,
         height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        title: "You look so lovely in this pic with your sister. Hoping to see more excellent pics of you celebrating yourself and other important folks for your life."
     },
     {
         src: young_guitar,
         width: 5,
         height: 4,
-        title: "You are always scheming for the next adventure. Nothing but respect for that."
+        title: "So young, so talented. Stay musical friend my friend."
     },
 
 ]
